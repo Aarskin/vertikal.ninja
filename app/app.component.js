@@ -1,7 +1,7 @@
 (function(app) {
   app.AppComponent =
     ng.core.Component({
-      selector: 'vertikal.ninja',
+      selector: 'vertikal-ninja',
       template: '<h1>[Template] Hello Worlds!</h1>'
     })
     .Class({
